@@ -1,4 +1,4 @@
-# java-console-hangman-game
+# console-hangman-game
 
  The program implements a console based "word guessing"
  game. It reads the file and chooses one word from it for the game. User has
